@@ -13,7 +13,7 @@ Web Application Development
 (In this assignment we created a photo gallery that allows you to use arrow button to scroll through the images and show more images.)
 
 ### View Project:
-(https://github.com/isabellaesco/lesson6_javascript3)
+(https://isabellaesco.github.io/lesson6_javascript3/)
 
 
 ### Lessons Learned in the Assignment:
