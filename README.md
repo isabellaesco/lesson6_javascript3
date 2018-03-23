@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 23, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Isabella Escobar)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we created a photo gallery that allows you to use arrow button to scroll through the images and show more images.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/isabellaesco/lesson6_javascript3)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create arrow buttons using leftArrow and rightArrow.)
+2. (I learned how about the appendChild() method to attach document fragments.
+3. (I learned about cloning nodes to be able to create new nodes)
